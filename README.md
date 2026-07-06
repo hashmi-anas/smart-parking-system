@@ -4,9 +4,8 @@ A full-stack Smart Parking Management System built using the MERN Stack that all
 
 ## 🌐 Live Demo
 
-**Frontend:** https://smart-parking-anas.vercel.app/
-
-**Backend API:** https://smart-parking-system-660j.onrender.com
+**Frontend:** https://smart-parking-anas.vercel.app/**
+**Backend API:** https://smart-parking-system-660j.onrender.com**
 ---
 
 ## 📸 Screenshots
