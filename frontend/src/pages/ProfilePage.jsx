@@ -46,8 +46,8 @@ function ProfilePage() {
       const token = localStorage.getItem("token");
 
       const res = await fetch(
-        `http://localhost:5000/api/auth/update/${user._id}`,
-        {
+        `https://smart-parking-system-660j.onrender.com/api/auth/update/${user._id}`
+        ,{
           method: "PUT",
           headers: {
             "Content-Type": "application/json",

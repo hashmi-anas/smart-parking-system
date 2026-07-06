@@ -10,7 +10,7 @@ import { useAuth } from "./AuthContext";
 
 const BookingContext = createContext();
 
-const API = "http://localhost:5000";
+const API = "https://smart-parking-system-660j.onrender.com";
 
 export function BookingProvider({ children }) {
   const { user } = useAuth();

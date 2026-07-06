@@ -27,7 +27,7 @@ import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import AppSnackbar from "../components/AppSnackbar";
 
-const API = "http://localhost:5000/api/auth";
+const API = "https://smart-parking-system-660j.onrender.com/api/auth";
 
 function RegisterPage() {
   const navigate = useNavigate();
