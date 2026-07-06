@@ -8,19 +8,6 @@ A full-stack Smart Parking Management System built using the MERN Stack that all
 - ⚙️ **Backend API:** https://smart-parking-system-660j.onrender.com
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
-- Home Page
-- Login Page
-- Register Page
-- Booking Page
-- Admin Dashboard
-- Contact Page
-
----
-
 ## 🚀 Features
 
 ### User
